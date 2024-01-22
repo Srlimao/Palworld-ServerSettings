@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Palworld-ServerSettings/static/css/main.f855e6bc.css",
+    "main.js": "/Palworld-ServerSettings/static/js/main.808fb471.js",
+    "static/js/787.9c239c0e.chunk.js": "/Palworld-ServerSettings/static/js/787.9c239c0e.chunk.js",
+    "index.html": "/Palworld-ServerSettings/index.html",
+    "main.f855e6bc.css.map": "/Palworld-ServerSettings/static/css/main.f855e6bc.css.map",
+    "main.808fb471.js.map": "/Palworld-ServerSettings/static/js/main.808fb471.js.map",
+    "787.9c239c0e.chunk.js.map": "/Palworld-ServerSettings/static/js/787.9c239c0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.808fb471.js"
+  ]
+}
